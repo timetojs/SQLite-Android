@@ -1,3 +1,3 @@
 # SQLite-Android
 
-There is nothing here.
+There is nothing to write here.
